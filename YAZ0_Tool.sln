@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAZ0_Tool", "YAZ0_Tool\YAZ0_Tool.csproj", "{6453353B-DAA9-49CD-A498-79200589E24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAZ0Library", "YAZ0Library\YAZ0Library.csproj", "{D57DE0FC-951B-45F7-8B61-347B6DDC48BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6453353B-DAA9-49CD-A498-79200589E24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6453353B-DAA9-49CD-A498-79200589E24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6453353B-DAA9-49CD-A498-79200589E24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6453353B-DAA9-49CD-A498-79200589E24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57DE0FC-951B-45F7-8B61-347B6DDC48BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57DE0FC-951B-45F7-8B61-347B6DDC48BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57DE0FC-951B-45F7-8B61-347B6DDC48BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57DE0FC-951B-45F7-8B61-347B6DDC48BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A570859-1F7A-40FE-ABD5-57660E58537A}
+	EndGlobalSection
+EndGlobal
